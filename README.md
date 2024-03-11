@@ -2,7 +2,7 @@
 
 This is the first repository created in [Kodluyoruz](https://kodluyoruz.org/). It contains one README file and one index.html.
 
-![Kodluyoruz Logo]([https://scontent.fadb3-2.fna.fbcdn.net/v/t39.30808-6/348281523_191542193375967_1073117477406694231_n.png?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=7NzIJ2sT8TMAX9AfUXi&_nc_ht=scontent.fadb3-2.fna&oh=00_AfBSuaRrTlz3WQsEoHh1PIxpEdTiAK2IcflTjtoQKESB7g&oe=65D3B5AA](https://avatars.githubusercontent.com/u/30476529?s=280&v=4))
+![Kodluyoruz Logo](https://camo.githubusercontent.com/c001da23fafe0b1cf338b08d2b3cbe34f1ad06a856c64b5c779494be18150712/68747470733a2f2f7777772e747066756e642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30372f6c6f676f2d312e706e67)
 
 ## Installation
 
